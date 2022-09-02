@@ -22,9 +22,9 @@ author: Harrison Chaney
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Best C++ reference: "https://en.cppreference.com/w/"
+    - Pydocs: "https://docs.python.org/3/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
