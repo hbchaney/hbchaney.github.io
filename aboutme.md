@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Who is Harrison
+subtitle: I am currently a graduate student a Virginia Tech
 ---
 
-My name is Harrison Chaney and I am on a journey through the amazing world of embedded systems 
+My name is Harrison Chaney and I am on a journey through the amazing world of embedded systems. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here is a little about me: 
 
-What else do you need?
+- Big fan of low level Coding 
+- Basically spend the last year parsing files with python... 
+- I really love rock climbing 
+- Wrestled for many years 
+ 
 
-### My story
+### Why Embedded? 
+I love how cross discipline embedded can be. I can spend a day making cases on FreeCAD and schematics/PCB in kiCAD. If I am tired of Drawing designs I can always code up some new ideas on the hardware I already made. Some days I just want to solder and create the circuits by hand and embedded projects give me that freedom.  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I try to keep my projects open ended on the software side which allows me to implement a few different programs on the piece of hardware. 
+
