@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Who is Harrison
-subtitle: I am currently a graduate student a Virginia Tech
+title: Who is Harrison?
+subtitle: 
 ---
 
-My name is Harrison Chaney, and I am on a journey through the amazing world of embedded systems. 
+My name is Harrison Chaney, and I am on a journey through the amazing world of embedded systems. I am currently a graduate student at Virginia Tech. My research involves simulating molecular movement. I learned about embedded systems by helping my group members in pulling sensor data from experiments and designing devicers for automate sample preparation. 
 
 Some stuff about me:
 
