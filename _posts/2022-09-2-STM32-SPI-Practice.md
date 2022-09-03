@@ -3,6 +3,7 @@ layout: post
 title: Testing SPI interface with STM32 Nucleo 
 subtitle: Trying to interface with the BME280 sensor from Bosch
 published: false
+tags: [SPI, UART, STM32, STMCube]
 ---
 
 ## Microcontroller - Showcase
@@ -17,7 +18,7 @@ Here is a picture of how I wired things up. I used the defualt SPI1 communicatio
 
 ### The Programming 
 
-Here is the code I wrote for the STM32 
+Here is the code I wrote for the STM32.
 the Trickiest part for me was firguring out that the ctrl_meas needed to be set to extract any data 
 
 ![Output Screenshot]()
