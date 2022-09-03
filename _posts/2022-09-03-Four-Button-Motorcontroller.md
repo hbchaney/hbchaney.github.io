@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four-button Motorcontroller
-subtitle: Showcasing 
+subtitle: Showcasing the TB6612 driver
 published: True
 tags: [TB6612, Adafruit, Microcontroller, Motorcontroller]
 ---
