@@ -2,26 +2,24 @@
 layout: post
 title: Testing SPI interface with STM32 Nucleo 
 subtitle: Trying to interface with the BME280 sensor from Bosch
-published: false
+published: True
 tags: [SPI, UART, STM32, STMCube]
 ---
 
 ## Microcontroller - Showcase
 
-Using BME280 in conjunction with the STM32 Nucleo-F072RB to learn the SPI interface 
+Using BME280 in conjunction with the STM32 Nucleo-F072RB to learn the SPI interface. This was my first project using the STMCube IDE. It worked out okay... I wish the IDE had better linting.On the plus side, the Compiler has wonderful error comments, and the build speed was lightening fast.
 
 ### The Wiring 
 
-Here is a picture of how I wired things up. I used the defualt SPI1 communication pins to hook everything up. I also used the digikey tutorial interfacing with rom from here [link](https://www.digikey.com/en/maker/projects/getting-started-with-stm32-how-to-use-spi/09eab3dfe74c4d0391aaaa99b0a8ee17)
+![Nucleo Board Wiring](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/STM32_SPI/20220902_181356.jpg?raw=true)
 
-![Nucleo Board hookup]()
+Here is a picture of how I wired things up. I used the defualt SPI1 communication pins to hook everything up. I also used the digikey tutorial interfacing with rom from [here](https://www.digikey.com/en/maker/projects/getting-started-with-stm32-how-to-use-spi/09eab3dfe74c4d0391aaaa99b0a8ee17). The digikey tutorial was a big help in learning the function calls needed, but was unrelated enough that I still had some challenge. 
 
 ### The Programming 
 
 Here is the code I wrote for the STM32.
 the Trickiest part for me was firguring out that the ctrl_meas needed to be set to extract any data 
-
-![Output Screenshot]()
 
 ~~~
 /* USER CODE BEGIN Header */
