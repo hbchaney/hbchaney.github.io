@@ -87,9 +87,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -130,11 +130,11 @@ navbar-text-col: "#FFF5EE"
 navbar-border-col: "#8B4513"
 page-col: "#FAEBD7"
 text-col: "#404040"
-link-col: "##90EE90"
+link-col: "#90EE90"
 hover-col: "#0085A1"
 footer-col: "#2F4F4F"
 footer-text-col: "#FFF5EE"
-footer-link-col: "#404040"
+footer-link-col: "#90EE90"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
