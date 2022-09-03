@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing SPI interface with STM32 Nucleo 
-subtitle: Trying to interface with the BME280 sensor from Bosch
+subtitle: Using the STMCube IDE to interface via SPI Protocal
 published: True
 tags: [SPI, UART, STM32, STMCube]
 ---
