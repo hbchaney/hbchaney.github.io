@@ -30,3 +30,4 @@ When learning to make circuits, mistakes are inevitable. Rather than destroy com
 I followed [this](https://ngspice.sourceforge.io/ngspice-eeschema.html) guide to make the simulations and get started. 
 
 I started with a basic RC circuit of both AC and PWM voltage sources. 
+
