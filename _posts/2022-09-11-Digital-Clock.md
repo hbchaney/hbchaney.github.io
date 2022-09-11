@@ -24,7 +24,7 @@ I would like there to be a few features for this design:
 ** essential design elements 
 
 ### Code showcase 
-To implement all these features, the rotary encoder will need to do a lot of work. it will need to have a way to cycle through numbers/ modes. and it will need a way to reset said modes and intiate the a way to cycle thorough the modes. 
+To implement all these features, the rotary encoder will need to do a lot of work. it will need to have a way to cycle through numbers/ modes. It will also need a way to reset said modes and intiate a way to cycle thorough the modes. 
 
 Here is a sample of how a three input system for the switch part of the Rotary will work. 
 
