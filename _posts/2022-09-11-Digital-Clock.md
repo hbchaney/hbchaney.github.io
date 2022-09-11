@@ -5,7 +5,7 @@ subtitle: Making a digital clock with a 7 segment display
 published: True
 tags: [LED-Screen, Adafruit, Microcontroller, RP2040, Pico, Platformio]
 ---
-## Hardware/Software - Showcase
+## Hardware/Software - Update
 
 ### Overview  
 
