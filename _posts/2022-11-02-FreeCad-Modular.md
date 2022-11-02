@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating modular designs in FreeCAD
+title: Modular Design in FreeCAD
 subtitle: Simplifying the 3d priniting design process using freeCAD
 published: true
 tags: [CAD, FreeCAD, modular Design, 3d printing]
@@ -27,3 +27,8 @@ Here is a look at some components
 ![clock-face](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/clock_face.PNG?raw=true){: width="25%" :}clock face 
 ![rotary-encoder-slot](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/Rotary_slot.PNG?raw=true){: width="25%" :}rotary encoder slot
 
+### Case Creation 
+
+Once the components are made and the foot prints are established, the case can be created and holes can be cut out where the components will be inserted
+
+![case-cutout]()
