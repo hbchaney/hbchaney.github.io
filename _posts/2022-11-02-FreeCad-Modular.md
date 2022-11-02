@@ -37,7 +37,7 @@ A case is made with slots cutout for each component
 
 ![assembled-case](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/Clock_assembled.PNG?raw=true)
 
-The case is then assembled to yeild the final product to be printed. 
+The case is then assembled to yield the final product to be printed. 
 
 ### Conclusions  
 
