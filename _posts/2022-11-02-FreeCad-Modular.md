@@ -41,4 +41,4 @@ The case is then assembled to yield the final product to be printed.
 
 ### Conclusions  
 
-This modular design method has really helped me not get burned out remeasuring things once I have an effective design. In the past, I was going back and using the measuring tool in FreeCAD on my old component iterations then putting them in a massive final design. Adding all that to the Heirarchy made things hard to change. This assembly based method is a much better approach and allows for components to be more easily swapped out. 
+This modular design method has really helped me not get burned out remeasuring things once I have finished with each component. In the past, I was going back and using the measuring tool in FreeCAD on my old component iterations then putting them in a massive final design. Adding all that to the Heirarchy made things hard to change. This assembly based method is a much better approach and allows for components to be more easily swapped out. 
