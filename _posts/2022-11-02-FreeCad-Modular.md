@@ -10,7 +10,7 @@ tags: [CAD, FreeCAD, modular Design, 3d printing]
 
 ### Overview  
 
-While creating cases for the digital clock and LED cube, I went thorugh many iterations in CAD to get the parts to fit just right. This process involved me measuring then printing and exaiming the fit. Followed by more measuring and printing until the parts fit just right. 
+While creating cases for the digital clock and LED cube, I went through many iterations in CAD to get the parts to fit just right. This process involved me measuring then printing and exaiming the fit. Followed by more measuring and printing until the parts fit just right. 
 
 This process is necessary, especially when you don't know the exact dimensions of the parts themselves, but becomes tedious when making a final combined design. 
 
@@ -18,7 +18,7 @@ To streamline this process I have come up with a way to more easily create desig
 
 ### Component Creation 
 
-First a general component foot print needs to be established. To maximize modularity this foot print should not change much when established. 
+First a general component foot print needs to be established. To maximize modularity this foot print should not change and should be a little oversized to be safe.
 
 Here is a look at some components 
 
@@ -41,4 +41,4 @@ The case is then assembled to yeild the final product to be printed.
 
 ### Conclusions  
 
-This modular design method has really helped me not get burned out remeasuring things once I have an effective design. In the past, I was going back using the measuring tool in FreeCAD on my old component iterations and putting them in a massive final design. Adding all that to the Heirarchy made things are to change. This assembly based method is a much better approach and allows for components to be more easily swapped out. 
+This modular design method has really helped me not get burned out remeasuring things once I have an effective design. In the past, I was going back and using the measuring tool in FreeCAD on my old component iterations then putting them in a massive final design. Adding all that to the Heirarchy made things hard to change. This assembly based method is a much better approach and allows for components to be more easily swapped out. 
