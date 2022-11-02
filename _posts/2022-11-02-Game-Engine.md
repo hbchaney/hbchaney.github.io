@@ -15,7 +15,7 @@ Games get complicated very quickly. Finding a way to ease the complexity is very
 
 To alleviate the complexity, I have developed an `Objects` based framework. Every `object` contains contains the values of their own coordinates and are responsible for creating a buffer of new values to be printed and old values to be erased. Printing of these `objects` and handling inter-object interaction is handled by a `mode` class. This `mode` class is responisble for passing values between `objects` and handling the printing of the `objects` to a display. 
 
-A final `mode manager` switches between the `modes` and passes inputs into each `mode`. The `mode manager` also shows a mode preview and runs a mode `begin` function whenever a new `mode` is called. 
+A final `mode manager` switches between the `modes` and passes inputs into each `mode`. The `mode manager` also shows a mode preview and runs a `begin` function whenever a new `mode` is called. 
 
 `Objects -> Modes -> ModeManager` 
 
@@ -62,6 +62,8 @@ class Object : public LoopElement
 ```  
 
 At the time of writing this `object` can only queue 1 pixel for creation and one pixel for deletion each frame. This is perfect for games like snake, pong, or brick breaker. The option might be added to utilize dynamic memory for the these buffers or have `object`s allocate more stack space to allow for more pixels to change per update. 
+
+A later post will be made about how the mode manager functions
 
 
 
