@@ -63,7 +63,7 @@ class Object : public LoopElement
 
 At the time of writing this `object` can only queue 1 pixel for creation and one pixel for deletion each frame. This is perfect for games like snake, pong, or brick breaker. The option might be added to utilize dynamic memory for the these buffers or have `object`s allocate more stack space to allow for more pixels to change per update. 
 
-A later post will be made about how the `mode manager` functions with `modes`
+A later post will be made about how the `mode manager` functions with `modes`.
 
 
 
