@@ -24,11 +24,21 @@ Here is a look at some components
 
 ![pico-slot](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/pico_slot.PNG?raw=true){: width="25%" :}microcontroller port 
 ![light-sensor](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/light_sensor.PNG?raw=true){: width="25%" :}light sensor 
-![clock-face](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/clock_face.PNG?raw=true){: width="25%" :}clock face 
+![clock-face](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/clock_face.PNG?raw=true){: width="35%" :}clock face 
 ![rotary-encoder-slot](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/Rotary_slot.PNG?raw=true){: width="25%" :}rotary encoder slot
 
 ### Case Creation 
 
 Once the components are made and the foot prints are established, the case can be created and holes can be cut out where the components will be inserted
 
-![case-cutout]()
+![case-cutout](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/Clock_cutout.PNG?raw=true)
+
+A case is made with slots cutout for each component 
+
+![assembled-case](https://github.com/hbchaney/Blog_pictures/blob/master/Modular_freeCAD/Clock_assembled.PNG?raw=true)
+
+The case is then assembled to yeild the final product to be printed. 
+
+### Conclusions  
+
+This modular design method has really helped me not get burned out remeasuring things once I have an effective design. In the past, I was going back using the measuring tool in FreeCAD on my old component iterations and putting them in a massive final design. Adding all that to the Heirarchy made things are to change. This assembly based method is a much better approach and allows for components to be more easily swapped out. 
