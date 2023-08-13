@@ -51,4 +51,4 @@ I ran into huge bottlenecks with adafruits lib for interfacing with the display 
 
 #### Future Plans 
 
-I plan on filling the empty space to the right with a tomagachi style friend of some sort. 
+I plan on filling the empty space to the right with a tamagachi style friend of some sort. 
