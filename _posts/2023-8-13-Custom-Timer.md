@@ -19,10 +19,10 @@ I was asked to make a small timer and thought it would be a really cool project.
 
 
 
-![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_schem.png?raw=true){: width="75%" :}schematic
+![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_schem.png?raw=true){: width="75%" :}
 
 
-![pcb-layout](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_layout.png?raw=true){: width="75%" :}layout
+![pcb-layout](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_layout.png?raw=true){: width="75%" :}
 
 
 
@@ -31,17 +31,17 @@ I was asked to make a small timer and thought it would be a really cool project.
 I ended up getting the pcb made from JLC pcb and most of the parts were placed with some soldered by hand by myself. I 3d printed the case and also tried out some 3d printed buttons while I was at it. 
 
 
-![JLC-Output](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7521_01.png?raw=true){: width="75%" :}Fresh From the Fab
+![JLC-Output](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7521_01.png?raw=true){: width="75%" :}
 
 
-![post-hand-solder](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7537_01.png?raw=true){: width="75%" :}after hand soldered 
+![post-hand-solder](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7537_01.png?raw=true){: width="75%" :}
 
 
-![case-no-lights](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7362.png?raw=true){: width="75%" :}case on 
+![case-no-lights](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7362.png?raw=true){: width="75%" :}
 
-![case-intro-scene](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7452.png?raw=true){: width="75%" :}start screen
+![case-intro-scene](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7452.png?raw=true){: width="75%" :}
 
-![case-running-timer](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7456.png?raw=true){: width="75%" :}running timer 
+![case-running-timer](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7456.png?raw=true){: width="75%" :}
 
 
 #### Coding Methodology 
