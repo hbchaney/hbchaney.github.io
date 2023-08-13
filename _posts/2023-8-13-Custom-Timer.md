@@ -44,7 +44,7 @@ I ended up getting the pcb made from JLC pcb and most of the parts were placed w
 ![case-running-timer](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7456.png?raw=true){: width="75%" :}
 
 
-#### Coding Methodology 
+#### Coding Note
 
 I ran into huge bottlenecks with adafruits lib for interfacing with the display and had to make a variant of my own to get some decent frame rate. I took most of it from the PIO example from rasp pi's docs. 
 
