@@ -15,4 +15,23 @@ I am still a relative new comer in pcb design so please don't hurt me. I have be
 
 
 
-![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/Screenshot%202023-08-13%20111649.jpg)schematic
+![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_schem.png?raw=true){: width="25%" :}schematic
+
+
+![pcb-layout](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_layout.png?raw=true){: width="25%" :}layout
+
+
+
+#### PCB Fabrication 
+
+I ended up getting the pcb made from JLC pcb and most of the parts were placed with some soldered by hand by myself. I 3d printed the case and also tried out some 3d printed buttons while I was at it. 
+
+
+![JLC-Output](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7521_01.png?raw=true){: width="25%" :}Fresh From the Fab
+
+
+![post-hand-solder](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/IMG_7537_01.png?raw=true){: width="30%" :}after hand soldered 
+
+
+
+
