@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creating a Game Engine for LED Cube
-subtitle: Making a General object based game engine for the LED-Cube
+title: Custom Made timer
+subtitle: Showcasing a custom 3 button timer with display
 published: true
 tags: [SPI display, Object-Orientation, PCB Design, Microcontroller]
 ---
