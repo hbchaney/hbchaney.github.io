@@ -19,7 +19,7 @@ I was asked to make a small timer and thought it would be a really cool project.
 
 
 
-![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_schem.png?raw=true){: width="75%" :}
+![schematic](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_schem.png?raw=true){: width="125%" :}
 
 
 ![pcb-layout](https://github.com/hbchaney/Blog_pictures/blob/master/Marianne_timer/pcb_layout.png?raw=true){: width="75%" :}
