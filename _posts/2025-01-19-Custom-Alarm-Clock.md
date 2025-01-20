@@ -29,9 +29,9 @@ I was more conscious about designing around constraints than with past projects.
 
 FreeCAD recently came out with a 1.0 version which was a great help with the design process. I was able to go back and adjust different parameters after the fact. In past versions, it was very frustating trying to change anything and usually resulted in starting designs over from scratch or stacking onto a bad design. I really love the new FreeCAD 1.0. I also was able to export the pcb and design around that and it made a huge difference to my work flow.
 
-![front design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/FrontFace_CAD.png?raw=true)  
-![back design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/BackFace_CAD.png?raw=true)  
-![Assembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Assembled_CAD.png?raw=true)
+![front design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/FrontFace_CAD.png?raw=true){: width="65%" :}  
+![back design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/BackFace_CAD.png?raw=true){: width="65%" :}  
+![Assembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Assembled_CAD.png?raw=true){: width="65%" :}
 
 I was also able to laser cut acrylic for the front panel of the display and use tinting film to add more contrast.
 
