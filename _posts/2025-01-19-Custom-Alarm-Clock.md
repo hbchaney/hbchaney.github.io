@@ -16,13 +16,13 @@ tags: [RP2040, Microcontroller, KiCAD, FreeCAD]
 I originally came up with the design by playing around with the pixel art software "aseprite". I wanted to create a modular general clock display and future controller for other projects. The design included eeprom, rtc, 
 led display driver, battery charging, usb c, buzzer, rotary encoder with button, two tactile buttons, two seven segment displays. 
 
-![aseprite concept](https://github.com/hbchaney/hbchaney.github.io/tree/master/assets/img/alarm_clock/)
+![aseprite concept](https://github.com/hbchaney/hbchaney.github.io/tree/master/assets/img/alarm_clock/ClockConcept.png?raw=true)
 
 ### PCB design 
 
 I was more conscious about designing around constraints than with past projects. I gave myself a more defined footprint that each part needed to fit in, and it resulted in a much better layed out pcb. I also favored more elegent routing that I could later adjust to in software for the led display driver. There are a few things I wished I aligned better, but overall I was pretty happy with the pcb design.
 
-[Schematic picture]  
+![Schematic picture](https://github.com/hbchaney/hbchaney.github.io/tree/master/assets/img/alarm_clock/)  
 [pcb screen shot]  
 [fabbed pcb picture]  
 
