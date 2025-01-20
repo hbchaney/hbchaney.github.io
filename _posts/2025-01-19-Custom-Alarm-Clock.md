@@ -2,7 +2,9 @@
 layout: post
 title: Custom Alarm Clock 
 subtitle: From Concept to Finished Design
-published: true
+cover-img: /assests/img/alarm_clock/finished_clock.jpg
+thumbnail-img: /assests/img/alarm_clock/finished_clock.jpg
+published: true]
 tags: [RP2040, Microcontroller, KiCAD, FreeCAD]
 ---
 ## Design Showcase 
