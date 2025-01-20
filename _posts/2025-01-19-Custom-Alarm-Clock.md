@@ -105,4 +105,4 @@ class UpdateBase
 
 Overall I am very happy with the design. I still need to add a few more modes, but the current state is very usable. 
 
-![Preassembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/alarm_side.jpg.jpg?raw=true){: width="65%" :} 
+![Preassembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/alarm_side.jpg.jpg?raw=true)
