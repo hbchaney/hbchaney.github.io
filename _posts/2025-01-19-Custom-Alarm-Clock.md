@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Custom Alarm Clock 
@@ -6,7 +5,6 @@ subtitle: From Concept to Finished Design
 published: true
 tags: [RP2040, Microcontroller, KiCAD, FreeCAD]
 ---
-
 ## Design Showcase 
 
 ![Finished Clock Picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/finished_clock.jpg?raw=true){: width="65%" :}
