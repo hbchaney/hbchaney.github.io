@@ -16,28 +16,26 @@ tags: [RP2040, Microcontroller, KiCAD, FreeCAD]
 I originally came up with the design by playing around with the pixel art software "aseprite". I wanted to create a modular general clock display and future controller for other projects. The design included eeprom, rtc, 
 led display driver, battery charging, usb c, buzzer, rotary encoder with button, two tactile buttons, two seven segment displays. 
 
-![aseprite concept](https://github.com/hbchaney/hbchaney.github.io/tree/master/assets/img/alarm_clock/ClockConcept.png?raw=true)
+![aseprite concept](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/ClockConcept.png?raw=true){: width="65%" :}
 
 ### PCB design 
 
 I was more conscious about designing around constraints than with past projects. I gave myself a more defined footprint that each part needed to fit in, and it resulted in a much better layed out pcb. I also favored more elegent routing that I could later adjust to in software for the led display driver. There are a few things I wished I aligned better, but overall I was pretty happy with the pcb design.
 
-![Schematic picture](https://github.com/hbchaney/hbchaney.github.io/tree/master/assets/img/alarm_clock/)  
-[pcb screen shot]  
-[fabbed pcb picture]  
+![Schematic picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Schematic.png?raw=true){: width="40%" :} 
+![pcb screen shot](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/PCB_design.png?raw=true){: width="65%" :}   
+![fabbed pcb picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/pcb_back.jpg.jpg?raw=true){: width="40%" :}  
 
 
 ### FreeCAD Design 
 
 FreeCAD recently came out with a 1.0 version which was a great help with the design process. I was able to go back and adjust different parameters after the fact. In past versions, it was very frustating trying to change anything and usually resulted in starting designs over from scratch or stacking onto a bad design. I really love the new FreeCAD 1.0. I also was able to export the pcb and design around that and it made a huge difference to my work flow.
 
-[front design]  
-[back design]  
-[button]  
+![front design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/FrontFace_CAD.png?raw=true)  
+![back design](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/BackFace_CAD.png?raw=true)  
+![Assembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Assembled_CAD.png?raw=true)
 
 I was also able to laser cut acrylic for the front panel of the display and use tinting film to add more contrast.
-
-[display acrylic]
 
 
 ### Software 
@@ -109,4 +107,4 @@ class UpdateBase
 
 Overall I am very happy with the design. I still need to add a few more modes, but the current state is very usable. 
 
-[another finished picture]
+![Preassembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/alarm_side.jpg.jpg?raw=true){: width="40%" :} 
