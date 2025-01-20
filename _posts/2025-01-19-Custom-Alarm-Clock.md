@@ -22,9 +22,9 @@ led display driver, battery charging, usb c, buzzer, rotary encoder with button,
 
 I was more conscious about designing around constraints than with past projects. I gave myself a more defined footprint that each part needed to fit in, and it resulted in a much better layed out pcb. I also favored more elegent routing that I could later adjust to in software for the led display driver. There are a few things I wished I aligned better, but overall I was pretty happy with the pcb design.
 
-![Schematic picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Schematic.png?raw=true){: width="40%" :} 
-![pcb screen shot](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/PCB_design.png?raw=true){: width="65%" :}   
-![fabbed pcb picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/pcb_back.jpg.jpg?raw=true){: width="40%" :}  
+![Schematic picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/Schematic.png?raw=true)
+![pcb screen shot](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/PCB_design.png?raw=true){: width="65%" :}  
+![fabbed pcb picture](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/pcb_back.jpg.jpg?raw=true){: width="65%" :}  
 
 
 ### FreeCAD Design 
@@ -107,4 +107,4 @@ class UpdateBase
 
 Overall I am very happy with the design. I still need to add a few more modes, but the current state is very usable. 
 
-![Preassembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/alarm_side.jpg.jpg?raw=true){: width="40%" :} 
+![Preassembled](https://github.com/hbchaney/hbchaney.github.io/blob/master/assets/img/alarm_clock/alarm_side.jpg.jpg?raw=true){: width="65%" :} 
