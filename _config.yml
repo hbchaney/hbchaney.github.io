@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Best C++ reference: "https://en.cppreference.com/w/"
     - Pydocs: "https://docs.python.org/3/"
+    - Github: "https://github.com/hbchaney"
   # Author's home: "https://deanattali.com"
 
 ################
